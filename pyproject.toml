@@ -9,7 +9,7 @@ description = "Compositional PoW research prototype (not a universal miner)"
 requires-python = ">=3.10"
 dependencies = [
     "bip-utils==2.9.3",
-    "ecdsa==0.19.0",
+    "ecdsa==0.19.2",
     "pycryptodome==3.20.0",
     "cryptography>=42",
 ]
